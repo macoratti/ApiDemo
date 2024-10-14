@@ -8,7 +8,7 @@ namespace ApiDemo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+          "Congelante", "revigorante", "frio", "fresco", "suave", "morno", "ameno", "quente", "abafante", "escaldante"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
