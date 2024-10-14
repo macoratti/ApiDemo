@@ -8,6 +8,7 @@ namespace ApiDemo.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+           //tradução da previsão do tempo
           "Congelante", "revigorante", "frio", "fresco", "suave", "morno", "ameno", "quente", "abafante", "escaldante"
         };
 
