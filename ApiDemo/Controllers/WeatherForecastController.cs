@@ -12,6 +12,7 @@ namespace ApiDemo.Controllers
           "Congelante", "revigorante", "frio", "fresco", "suave", "morno", "ameno", "quente", "abafante", "escaldante"
         };
 
+        //texto da branch novo-recurso
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
